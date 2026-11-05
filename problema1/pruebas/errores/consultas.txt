@@ -1,0 +1,5 @@
+# Consultas con errores
+A,C
+A,Q
+solo_un_campo
+B,A

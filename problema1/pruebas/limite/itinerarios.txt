@@ -1,0 +1,38 @@
+=== A → E ===
+Itinerario 1: A → B → C → D → E | tramos: 4 | 4 min | costo: 8
+Itinerario 2: A → B → C → E | tramos: 3 | 4 min | costo: 8
+Itinerario 3: A → B → D → E | tramos: 3 | 4 min | costo: 8
+Itinerario 4: A → B → E | tramos: 2 | 4 min | costo: 8
+Itinerario 5: A → C → D → E | tramos: 3 | 4 min | costo: 6
+Itinerario 6: A → C → E | tramos: 2 | 4 min | costo: 6
+Itinerario 7: A → D → E | tramos: 2 | 4 min | costo: 4
+Itinerario 8: A → E | tramos: 1 | 10 min | costo: 1
+Total: 8 itinerarios
+Menos tramos: 8
+Menor tiempo: 1, 2, 3, 4, 5, 6, 7
+Menor costo: 8
+
+=== A → A ===
+Itinerario 1: A | tramos: 0 | 0 min | costo: 0
+Total: 1 itinerarios
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+
+=== E → A ===
+Itinerario 1: E → A | tramos: 1 | 1 min | costo: 1
+Total: 1 itinerarios
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+
+=== B → A ===
+Itinerario 1: B → C → D → E → A | tramos: 4 | 4 min | costo: 4
+Itinerario 2: B → C → E → A | tramos: 3 | 4 min | costo: 4
+Itinerario 3: B → D → E → A | tramos: 3 | 4 min | costo: 4
+Itinerario 4: B → E → A | tramos: 2 | 4 min | costo: 4
+Total: 4 itinerarios
+Menos tramos: 4
+Menor tiempo: 1, 2, 3, 4
+Menor costo: 1, 2, 3, 4
+

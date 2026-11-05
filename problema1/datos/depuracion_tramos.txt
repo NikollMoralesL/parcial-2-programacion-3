@@ -1,0 +1,2 @@
+Línea 8: A,A,2,1 | bucle en el centro A
+Línea 9: A,B,9,7 | repetido, primera aparición en la línea 2

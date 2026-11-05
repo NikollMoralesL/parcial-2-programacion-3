@@ -1,0 +1,3 @@
+Regiones: 6
+Mayor área: 8 | regiones: 1, 2
+Mayor perímetro: 16 | regiones: 1, 2

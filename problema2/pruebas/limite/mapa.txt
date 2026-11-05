@@ -1,0 +1,6 @@
+# Caso límite: anillos con hueco (empates), diagonales que no unen y espacios extra
+A A A . C C C
+A . A . C . C
+A A A . C C C
+. B . . . . .
+   B   .  B . . . B

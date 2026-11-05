@@ -1,0 +1,8 @@
+Paleta, línea 3: el color '16A34A' no tiene la forma #RRGGBB
+Paleta, línea 4: símbolo 'A' repetido (ya definido en la línea 2)
+Paleta, línea 5: el color '#12G45F' no tiene la forma #RRGGBB
+Paleta, línea 6: se esperaban 3 campos y hay 2
+Paleta: falta el símbolo . (fondo)
+Mapa, línea 3, fila 1: tiene 2 símbolos y se esperaban 3
+Mapa, línea 3, fila 1, columna 1: símbolo 'X' no está en la paleta
+Mapa, línea 4, fila 2, columna 2: símbolo 'Z' no está en la paleta

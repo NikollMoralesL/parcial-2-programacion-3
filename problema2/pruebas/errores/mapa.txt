@@ -1,0 +1,4 @@
+# Caso inválido: fila más corta y símbolos sin definir
+A A B
+A X
+B B Z

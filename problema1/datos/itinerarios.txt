@@ -1,0 +1,18 @@
+=== A → D ===
+Itinerario 1: A → B → D | tramos: 2 | 15 min | costo: 9
+Itinerario 2: A → B → C → D | tramos: 3 | 23 min | costo: 8
+Itinerario 3: A → C → D | tramos: 2 | 18 min | costo: 3
+Itinerario 4: A → C → B → D | tramos: 3 | 17 min | costo: 7
+Total: 4 itinerarios
+Menos tramos: 1, 3
+Menor tiempo: 1
+Menor costo: 3
+
+=== B → A ===
+Sin itinerarios
+Total: 0 itinerarios
+
+=== D → A ===
+Sin itinerarios
+Total: 0 itinerarios
+

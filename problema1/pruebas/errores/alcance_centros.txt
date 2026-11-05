@@ -1,0 +1,5 @@
+=== B → A ===
+Paso 0: {B}
+Paso 1: {A, B}
+Se estabiliza en el paso 1
+

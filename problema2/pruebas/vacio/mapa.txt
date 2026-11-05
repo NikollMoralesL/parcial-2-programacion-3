@@ -1,0 +1,3 @@
+# Caso vacío: el mapa solo tiene comentarios
+
+   

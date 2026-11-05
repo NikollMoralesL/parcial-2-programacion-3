@@ -1,0 +1,4 @@
+=== A → B ===
+Sin itinerarios, centro inexistente: A, B
+Total: 0 itinerarios
+

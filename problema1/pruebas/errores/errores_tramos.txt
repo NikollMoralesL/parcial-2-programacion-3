@@ -1,0 +1,6 @@
+Línea 3: A,B | se esperaban 4 campos y hay 2
+Línea 4: X,Y,abc,3 | minutos no es un entero
+Línea 5: X,Y,5,0 | costo debe ser positivo
+Línea 6: ,Z,4,4 | origen vacío
+Línea 7: B,C,-2,1 | minutos debe ser positivo
+Línea 11: A,B,8,5,9 | se esperaban 4 campos y hay 5

@@ -1,0 +1,3 @@
+Regiones: 28
+Mayor área: 266 | regiones: 1
+Mayor perímetro: 164 | regiones: 1
